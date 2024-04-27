@@ -1,4 +1,4 @@
-It is hard to understimate professor Cory Doctorow's influence on information policy debates around the world -- although younger, he can be considered in the same league with Richard Stallman, Linus Torvalds and Lawrence Lessig.
+It is hard to overestimate professor Cory Doctorow's influence on information policy debates around the world -- although younger, he can be considered in the same league with Richard Stallman, Linus Torvalds and Lawrence Lessig.
 
 Besides being Professor of Computer Science at Open University UK he is a renowned science fiction writer, which is why he is giving a public talk on [Overcoming the Enshittocene](https://kirjandusfestival.tartu.ee/en/performers/cory-doctorow-usa/) at Prima Vista literary festival on May 8th. We are inviting professor Doctorow to the Institute of Computer Science two days later to continue the debate and let the students, the professors and the general public ask questions about regulatory, social and personal aspects of his research and the future to come.
 
