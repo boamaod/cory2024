@@ -14,4 +14,4 @@ The title of the public discussion _Seizing the Means of Computation_ is a subti
 
 ----
 
-_Used photo: [Speaker Cory Doctorow](https://flickr.com/photos/36976328@N04/32858497617) CC BY-SA [Dominik Butzmann 2019](https://commons.wikimedia.org/wiki/File:Re_publica_faces_2019_(32858497617).jpg)._
+_Image used is [Speaker Cory Doctorow](https://flickr.com/photos/36976328@N04/32858497617) CC BY-SA [Dominik Butzmann 2019](https://commons.wikimedia.org/wiki/File:Re_publica_faces_2019_(32858497617).jpg). Source of the page is [here](https://github.com/boamaod/cory2024)._
