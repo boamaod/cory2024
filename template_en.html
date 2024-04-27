@@ -62,6 +62,9 @@
                 .bright-mode {
                   background-color: white;
                   color: black;
+                  .logos {
+                     filter: invert(1);
+                  }
                 }
                 
                 .toggle {
@@ -75,8 +78,14 @@
                   opacity: 0.5;
                 }
                 
+                .logos {
+                  height: 36px;
+                  vertical-align: top;
+                  margin-bottom: 1rem;
+                }
+                
                 @media screen and (max-width: 640px) {
-                        img { float: none !important; margin-left: 0px !important; content:url(/cory/face-wide.jpg); width: 100% !important; }
+                        #face { float: none !important; margin-left: 0px !important; content:url(/cory/face-wide.jpg); width: 100% !important; }
                 }
 	</style>
 </head>
@@ -91,7 +100,7 @@ function toggle() {
 
 <span class="toggle" onclick="toggle();">◑</span>
 <h1>Seizing the Means of Computation</h1>
-<img src="/cory/face.jpg" style="float: right; width: 300px; margin-left: 1rem;">
+<img id="face" src="/cory/face.jpg" style="float: right; width: 300px; margin-left: 1rem;">
 <p><i>Public Discussion with Cory Doctorow</i></p>
 
 <p>May 10th from 15:00<br>
@@ -100,6 +109,8 @@ Room 1037, <a href="https://virtualtour.ut.ee/en/84-university-of-tartu-delta-ce
 <p>(<a href="/cory/et/">eesti keeles</a>)</p>
 
 %CONTENT%
+
+<p><a href="https://cs.ut.ee/en/arvutiteaduse-instituudi-esileht"><img class="logos" src="/cory/ut-cs.png" style="margin-right: 3rem;"></a><a href="https://kirjandusfestival.tartu.ee/en/"><img class="logos" src="/cory/primavista.png" style="margin-right: 3rem;"></a><a href="https://tartu2024.ee/en/"><img class="logos" src="/cory/tartu2024.png"</a></p>
 
 </body>
 </html>
