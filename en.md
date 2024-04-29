@@ -4,7 +4,7 @@ Besides decades long policy work at the Electronic Frontier Foundation and being
 
 We are excited to host him two days later at the Institute of Computer Science to continue the discussion and ask questions.
 
-Professor Doctorow will introduce the topic once again in a short talk about _four forces_ that keep tech companies from abusing us --- competition, regulation, interoperability and empowered tech workforce. The following discussion is moderated by [Ulrich Norbisrath](https://ulno.net/) and you can send your questions in advance to [askcory@infoaed.ee](mailto:askcory@infoaed.ee).
+Professor Doctorow will introduce the topic once again in a short talk about _four forces_ that keep tech companies from abusing us --- competition, regulation, interoperability and empowered tech workforce. The discussion following is moderated by [Ulrich Norbisrath](https://ulno.net/) and you can send your questions in advance to [askcory@infoaed.ee](mailto:askcory@infoaed.ee).
 
 The title of the discussion _Seizing the Means of Computation_ is a subtitle of Cory Doctorow's latest non-fiction book [The Internet Con](https://craphound.com/internetcon/) as well as the remedy proposed at the last part of his Prima Vista talk.
 
@@ -16,4 +16,4 @@ The title of the discussion _Seizing the Means of Computation_ is a subtitle of 
 
 ----
 
-_The event happens in collaboration between institutes of Computer Science and Cultural Research of Tartu University. Image used is [Speaker Cory Doctorow](https://flickr.com/photos/36976328@N04/32858497617) CC BY-SA [Dominik Butzmann 2019](https://commons.wikimedia.org/wiki/File:Re_publica_faces_2019_(32858497617).jpg) and the markup text for event the page is [here](https://github.com/boamaod/cory2024)._
+_The event happens in collaboration between institutes of Computer Science and Cultural Research of Tartu University. Image used is [Speaker Cory Doctorow](https://flickr.com/photos/36976328@N04/32858497617) CC BY-SA [Dominik Butzmann 2019](https://commons.wikimedia.org/wiki/File:Re_publica_faces_2019_(32858497617).jpg) and the markup text for the event page is [here](https://github.com/boamaod/cory2024)._
