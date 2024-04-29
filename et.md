@@ -1,6 +1,6 @@
 Cory Doctorow on olnud üks võtmeisikutest ülemaailmse infopoliitika debattide suunamisel koos väärikate mõttekaaslastega nagu Richard Stallman, Linus Torvalds, Lawrence Lessig ja Jon 'Maddog' Hall.
 
-Lisaks dekaadide pikkusele poliitikakujunduse tööle Eletronic Frontier Foundationis ja arvutiteaduse külalisprofessoriks olemisele ühendkuningriigi Open Universitys on ta ka tunnustatud ulmekirjanik. Ses rollis peab ta Prima Vista kirjandusfestivalil 8. mail avaliku ettekande [pasatseenist väljatulemisest](https://kirjandusfestival.tartu.ee/program/suur-futuroloogiline-kongress-cory-doctorow-kanada-uhendkuningriik-usa/).
+Lisaks dekaadide pikkusele poliitikakujunduse tööle Eletronic Frontier Foundationis ja arvutiteaduse külalisprofessoriks olemisele ühendkuningriigi Open Universitys on ta ka tunnustatud ulmekirjanik. Ses rollis peab ta Prima Vista kirjandusfestivalil 8. mail avaliku ettekande [pasatseenist väljatulemisest](https://kirjandusfestival.tartu.ee/en/performers/cory-doctorow-usa/).
 
 Meil on hea meel võõrustada teda kaks päeva hiljem Tartu Ülikooli arvutiteaduse instituudis, et jätkata alustatud debatti ning küsida küsimusi.
 
