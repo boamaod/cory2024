@@ -16,4 +16,4 @@ Arutelu pealkiri _Arvutusvahendite enda kätte haaramine_ on Doctorow' viimase m
 
 ----
 
-_Arutelu toimub Tartu Ülikooli arvutiteaduse instituudi ja kultuuriteaduste instituudi koostöös. Lehel kasutatud foto [Speaker Cory Doctorow](https://flickr.com/photos/36976328@N04/32858497617) autor on CC BY-SA [Dominik Butzmann 2019](https://commons.wikimedia.org/wiki/File:Re_publica_faces_2019_(32858497617).jpg) ja sündmuse infokülje märgendteksti leiab [siit](https://github.com/boamaod/cory2024)._
+_Arutelu toimub Tartu Ülikooli arvutiteaduse instituudi ja kultuuriteaduste instituudi koostöös. Lehel kasutatud portree [Speaker Cory Doctorow](https://flickr.com/photos/36976328@N04/32858497617) autor on CC BY-SA [Dominik Butzmann 2019](https://commons.wikimedia.org/wiki/File:Re_publica_faces_2019_(32858497617).jpg), sotsimeedia tunnuspildi autorid CC BY-SA [Julia Galdo ja Cody Cloud 2020](https://commons.wikimedia.org/wiki/File:Wired_Portrait_by_Julia_Galdo_and_Cody_Cloud_(JUCO)_6_-_Flickr_-_gruntzooki.jpg) ja sündmuse infokülje märgendteksti leiab [siit](https://github.com/boamaod/cory2024)._
