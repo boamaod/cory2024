@@ -4,7 +4,7 @@ Lisaks dekaadide pikkusele poliitikakujunduse tööle Electronic Frontier Founda
 
 Meil on hea meel võõrustada teda kaks päeva hiljem Tartu Ülikooli arvutiteaduse instituudis, et jätkata alustatud debatti ning küsida küsimusi.
 
-Cory Doctorow juhatab arutelu uuesti sisse lühiettekandega _neljast jõust_, mille abil hoida tehnoloogiaettevõtteid kuritarvitustest --- nendeks on konkurents, regulatsioon, koosvõime ja jõustatud tööjõud. Ettekanne ja arutelu toimub inglise keeles ning seda modereerib [Ulrich Norbisrath](https://ulno.net/), oma küsimused võib ette saata [askcory@infoaed.ee](mailto:askcory@infoaed.ee).
+Cory Doctorow juhatab arutelu uuesti sisse lühiettekandega _neljast jõust_, mille abil hoida tehnoloogiahiidusid kuritarvitustest --- nendeks on konkurents, regulatsioon, koosvõime ja jõustatud tööjõud. Ettekanne ja arutelu toimub inglise keeles ning seda modereerib [Ulrich Norbisrath](https://ulno.net/), oma küsimused võib ette saata [askcory@infoaed.ee](mailto:askcory@infoaed.ee).
 
 Arutelu pealkiri _Arvutusvahendite enda kätte haaramine_ on Doctorow' viimase mitte-ilukirjandusliku teose [The Internet Con](https://craphound.com/internetcon/) alapealkiri ja tema Prima Vista kõne lõpuosas väljakäidud abinõu.
 
