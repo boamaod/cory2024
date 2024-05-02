@@ -12,8 +12,9 @@ The title of the discussion _Seizing the Means of Computation_ is a subtitle of 
 
 ## See also
 
-* [Overcoming the Enshittocene](https://kirjandusfestival.tartu.ee/en/performers/cory-doctorow-usa/) (public talk on [May 8th at UT library](https://kirjandusfestival.tartu.ee/en/program/grand-futurological-congress-cory-doctorow-canada-uk-usa/))
-* [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/) (old-fashioned link-blog)
+* [Overcoming the Enshittocene](https://kirjandusfestival.tartu.ee/en/performers/cory-doctorow-usa/) (talk on [May 8th at UT library](https://kirjandusfestival.tartu.ee/en/program/grand-futurological-congress-cory-doctorow-canada-uk-usa/))
+* [An Audacious Plan to Halt the Internet's Ensh*ttification](https://youtu.be/rimtaSgGz_4) (DEFCON31 talk/[text](https://pluralistic.net/2023/08/27/an-audacious-plan-to-halt-the-internets-enshittification-and-throw-it-into-reverse/))
+* [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)
 * [Cory Doctorow's craphound.com](https://craphound.com/) (a personal website)
 
 ----
