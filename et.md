@@ -11,11 +11,12 @@ Arutelu pealkiri _Arvutusvahendite enda kätte haaramine_ on Doctorow' viimase m
 ## Vaata ka
 
 * [Kuidas tulla välja pasatseenist?](https://kirjandusfestival.tartu.ee/en/performers/cory-doctorow-usa/) (ettekanne [K 8.05 kl 18](https://kirjandusfestival.tartu.ee/program/suur-futuroloogiline-kongress-cory-doctorow-kanada-uhendkuningriik-usa/))
+* [Tänapäeva netimaailm on hoogsalt rämpsustumas](https://vikerraadio.err.ee/1609323437/huvitaja-taimetervise-uued-ohustajad-infoajastu-valjakutsed) (Vikerraadio, 8.05)
 * [Võimusuhted on tehnoloogia puhul kõige olulisem asi](https://www.sirp.ee/s1-artiklid/c7-kirjandus/voimusuhted-on-tehnoloogia-puhul-koige-olulisem-asi/) (Sirp, 3.05)
 * [Kas Internet "persereerub"?](https://www.isoc.ee/interneti-persereerumine/) (ülevaade ISOCi blogis, 1.05)
 * [Veebipiraatlus ja Interneti roojastumine](https://www.err.ee/1609236390/oliver-laas-veebipiraatlus-ja-interneti-roojastumine) (tehnofilosoof Oliver Laas ERRis, 29.01)
 * [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/) (lingiblogi)
-* [Cory Doctorow's craphound.com](https://craphound.com/) (isiklik veebisait)
+* [Cory Doctorow's Literary Works](https://craphound.com/) (enamasti allalaaditavad)
 
 ----
 
