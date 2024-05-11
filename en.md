@@ -1,6 +1,4 @@
-Cory Doctorow has been a significant figure in shaping information
-policy debates worldwide, alongside respected peers such as Richard
-Stallman, Linus Torvalds, Lawrence Lessig, and Jon 'Maddog' Hall.
+Cory Doctorow has been a significant figure in shaping information policy debates worldwide, alongside respected peers such as Richard Stallman, Linus Torvalds, Lawrence Lessig, and Jon 'Maddog' Hall.
 
 Besides decades long policy work at the Electronic Frontier Foundation and being Visiting Professor of Computer Science at Open University UK, he is a renowned science fiction writer. In this role he is giving a public talk on [Overcoming the Enshittocene](https://kirjandusfestival.tartu.ee/en/performers/cory-doctorow-usa/) at Prima Vista literary festival on May 8th.
 
@@ -12,8 +10,9 @@ The title of the discussion _Seizing the Means of Computation_ is a subtitle of 
 
 ## See also
 
-* [Overcoming the Enshittocene](https://kirjandusfestival.tartu.ee/en/performers/cory-doctorow-usa/) (talk on [May 8th 6PM at UT library](https://kirjandusfestival.tartu.ee/en/program/grand-futurological-congress-cory-doctorow-canada-uk-usa/))
-* [An Audacious Plan to Halt the Internet's Ensh*ttification](https://youtu.be/rimtaSgGz_4) (DEFCON31 talk/[text](https://pluralistic.net/2023/08/27/an-audacious-plan-to-halt-the-internets-enshittification-and-throw-it-into-reverse/))
+* [Seizing the Means of Computation](https://panopto.ut.ee/Panopto/Pages/Viewer.aspx?id=3b6751e3-1a50-421a-a162-b16c00bc86c1) (video of May 10th discussion)
+* [#1](https://commons.wikimedia.org/wiki/File:Cory%20Galore.jpg) [#2](https://commons.wikimedia.org/wiki/File:Cory%20Talking%20in%20Tartu.jpg) [#3](https://commons.wikimedia.org/wiki/File:Artifact%20in%20Preparation.jpg) [#4](https://commons.wikimedia.org/wiki/File:Cory%20Reelected%20(again).jpg) [#5](https://commons.wikimedia.org/wiki/File:Cory%20and%20Ulrich.jpg) [#6](https://commons.wikimedia.org/wiki/File:Artifact_Initialised.jpg) [#7](https://commons.wikimedia.org/wiki/File:Cory%20at%20the%20Top%20(it%20spins).jpg) (some photos, see [gallery](https://w.wiki/A3jT))
+* [Overcoming the Enshittocene](https://youtu.be/6hITj793htg&t=398) (video of [May 8th Prima Vista talk](https://kirjandusfestival.tartu.ee/en/performers/cory-doctorow-usa/))
 * [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/) (linkblog)
 * [Cory Doctorow's Literary Works](https://craphound.com/) (mostly downloadable)
 
